@@ -21,8 +21,8 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 1 | Management Consulting (Boutique) | $0–50K | 3–5 años | Alta | ⬜ |
-| 2 | Digital Agency (Marketing/Dev/Design) | $5–50K | 2–4 años | Media | ⬜ |
+| 1 | Management Consulting (Boutique) | $0–50K | 3–5 años | Alta | ✅ |
+| 2 | Digital Agency (Marketing/Dev/Design) | $5–50K | 2–4 años | Media | ✅ |
 | 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ⬜ |
 | 4 | Executive Search / Headhunting | $10–50K | 2–4 años | Media | ⬜ |
 | 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ⬜ |
@@ -86,7 +86,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 29 | Enterprise B2B Sales | $0–50K | 2–4 años | Alta | ⬜ |
-| 30 | High-Ticket Coaching/Consulting | $0–10K | 1–3 años | Media | ⬜ |
+| 30 | High-Ticket Coaching/Consulting | $0–10K | 1–3 años | Media | ✅ |
 | 31 | Insurance Agency (Independent) | $10–50K | 3–7 años | Media | ⬜ |
 
 ## 🔄 Arbitraje
@@ -94,7 +94,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 32 | Information Arbitrage | $0–5K | 1–3 años | Baja | ⬜ |
+| 32 | Information Arbitrage | $0–5K | 1–3 años | Baja–Media | ✅ |
 | 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ⬜ |
 | 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ⬜ |
 
@@ -103,7 +103,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 35 | AI Services / Implementation | $0–50K | 1–3 años | Media | ⬜ |
+| 35 | AI Services / Implementation | $0–20K | 1–3 años | Media | ✅ |
 | 36 | Bitcoin Mining Operations | $500K–5M | 2–5 años | Alta | ⬜ |
 | 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ⬜ |
 
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 0 |
+| ✅ Completados | 5 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 47 |
+| ⬜ Pendientes | 42 |
 | ❌ Descartados | 0 |
-| Progreso | 0% |
+| Progreso | 11% |
 
 ---
 
-> **Última actualización:** $(date +%Y-%m-%d)
+> **Última actualización:** 2026-06-14
 > **Próxima corrida programada:** cada 2 horas
