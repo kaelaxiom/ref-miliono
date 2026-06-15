@@ -95,7 +95,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 32 | Information Arbitrage | $0–5K | 1–3 años | Baja–Media | ✅ |
-| 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ⬜ |
+| 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ✅ |
 | 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ⬜ |
 
 ## 🤖 Tecnología Emergente
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 9 |
+| ✅ Completados | 10 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 38 |
+| ⬜ Pendientes | 37 |
 | ❌ Descartados | 0 |
-| Progreso | 19% |
+| Progreso | 21% |
 
 ---
 

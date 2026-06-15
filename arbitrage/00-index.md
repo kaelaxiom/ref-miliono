@@ -9,7 +9,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 32 | Information Arbitrage | $0–5K | 1–3 años | Baja–Media | ✅ |
-| 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ⬜ |
+| 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ✅ |
 | 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ⬜ |
 
 ## Quick Comparison
@@ -22,5 +22,5 @@
 
 ---
 
-> **Modelos completados:** 1 / 3
-> **Última actualización:** 2026-06-14
+> **Modelos completados:** 2 / 3
+> **Última actualización:** 2026-06-15
