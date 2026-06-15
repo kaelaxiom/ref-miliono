@@ -26,7 +26,7 @@
 | 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ✅ |
 | 4 | Executive Search / Headhunting | $10–50K | 2–4 años | Media | ✅ |
 | 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ✅ |
-| 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ⬜ |
+|| 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ✅ |
 
 ## 💻 Productos Digitales
 *`digital-products/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 13 |
+| ✅ Completados | 14 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 34 |
+| ⬜ Pendientes | 33 |
 | ❌ Descartados | 0 |
-| Progreso | 28% |
+| Progreso | 30% |
 
 ---
 
