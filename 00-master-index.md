@@ -23,7 +23,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 1 | Management Consulting (Boutique) | $0–50K | 3–5 años | Alta | ✅ |
 | 2 | Digital Agency (Marketing/Dev/Design) | $5–50K | 2–4 años | Media | ✅ |
-| 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ⬜ |
+| 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ✅ |
 | 4 | Executive Search / Headhunting | $10–50K | 2–4 años | Media | ✅ |
 | 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ✅ |
 | 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ⬜ |
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 12 |
+| ✅ Completados | 13 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 35 |
+| ⬜ Pendientes | 34 |
 | ❌ Descartados | 0 |
-| Progreso | 26% |
+| Progreso | 28% |
 
 ---
 
