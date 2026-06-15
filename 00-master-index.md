@@ -25,7 +25,7 @@
 | 2 | Digital Agency (Marketing/Dev/Design) | $5–50K | 2–4 años | Media | ✅ |
 | 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ⬜ |
 | 4 | Executive Search / Headhunting | $10–50K | 2–4 años | Media | ✅ |
-| 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ⬜ |
+| 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ✅ |
 | 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ⬜ |
 
 ## 💻 Productos Digitales
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 11 |
+| ✅ Completados | 12 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 36 |
+| ⬜ Pendientes | 35 |
 | ❌ Descartados | 0 |
-| Progreso | 23% |
+| Progreso | 26% |
 
 ---
 
