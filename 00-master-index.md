@@ -85,7 +85,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 29 | Enterprise B2B Sales | $0–50K | 2–4 años | Alta | ⬜ |
+| 29 | Enterprise B2B Sales | $0–50K | 2–4 años | Alta | ✅ |
 | 30 | High-Ticket Coaching/Consulting | $0–10K | 1–3 años | Media | ✅ |
 | 31 | Insurance Agency (Independent) | $10–50K | 3–7 años | Media | ⬜ |
 
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 8 |
+| ✅ Completados | 9 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 39 |
+| ⬜ Pendientes | 38 |
 | ❌ Descartados | 0 |
-| Progreso | 17% |
+| Progreso | 19% |
 
 ---
 
