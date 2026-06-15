@@ -33,7 +33,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 7 | Online Courses (Scaled) | $5–50K | 2–4 años | Media | ⬜ |
+| 7 | Online Courses (Scaled) | $5–50K | 2–4 años | Media | ✅ |
 | 8 | Software Licensing (non-SaaS) | $50–500K | 3–5 años | Alta | ⬜ |
 | 9 | Membership / Subscription Sites | $10–100K | 2–5 años | Media | ⬜ |
 | 10 | Digital Templates & Assets | $0–10K | 1–3 años | Baja | ⬜ |
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-|| ✅ Completados | 6 |
-|| 🔍 En investigación | 0 |
-|| ⬜ Pendientes | 41 |
-|| ❌ Descartados | 0 |
-|| Progreso | 13% |
+| ✅ Completados | 7 |
+| 🔍 En investigación | 0 |
+| ⬜ Pendientes | 40 |
+| ❌ Descartados | 0 |
+| Progreso | 15% |
 
 ---
 
-> **Última actualización:** 2026-06-14
+> **Última actualización:** 2026-06-15
 > **Próxima corrida programada:** cada 2 horas
