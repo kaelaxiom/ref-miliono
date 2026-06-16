@@ -66,7 +66,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 22 | YouTube Channel (Large) | $5–50K | 3–7 años | Alta | ⬜ |
+| 22 | YouTube Channel (Large) | $5–50K | 3–7 años | Alta | ✅ |
 | 23 | Paid Newsletter (Substack, Beehiiv) | $0–20K | 2–5 años | Media | ✅ |
 | 24 | Podcast Network | $20–100K | 3–7 años | Alta | ⬜ |
 | 25 | Digital Publishing Empire | $10–100K | 2–5 años | Media | ⬜ |
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 14 |
+| ✅ Completados | 15 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 33 |
+| ⬜ Pendientes | 32 |
 | ❌ Descartados | 0 |
-| Progreso | 30% |
+| Progreso | 32% |
 
 ---
 
