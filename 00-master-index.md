@@ -55,7 +55,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 15 | Real Estate Development | $500K–5M | 3–7 años | Muy Alta | ✅ |
 || 16 | Multifamily Real Estate (Syndication) | $100K–1M | 3–7 años | Alta | ✅ |
-| 17 | Venture Capital (GP) | $1M–10M+ | 5–10 años | Muy Alta | ⬜ |
+|| 17 | Venture Capital (GP) | $1M–10M+ | 5–10 años | Muy Alta | ✅ |
 | 18 | Private Equity | $5M–50M+ | 5–10 años | Muy Alta | ⬜ |
 | 19 | Active Stock/Options Trading (Pro) | $100K–2M | 2–5 años | Muy Alta | ⬜ |
 | 20 | Private Lending / Hard Money | $200K–5M | 2–5 años | Alta | ⬜ |
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 24 |
+| ✅ Completados | 25 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 23 |
+| ⬜ Pendientes | 22 |
 | ❌ Descartados | 0 |
-| Progreso | 51% |
+| Progreso | 53% |
 
 ---
 
