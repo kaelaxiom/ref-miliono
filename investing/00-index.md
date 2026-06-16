@@ -8,7 +8,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 15 | Real Estate Development | $500K–5M | 3–7 años | Muy Alta | ⬜ |
+| 15 | Real Estate Development | $500K–5M | 3–7 años | Muy Alta | ✅ |
 | 16 | Multifamily Real Estate (Syndication) | $100K–1M | 3–7 años | Alta | ⬜ |
 | 17 | Venture Capital (GP) | $1M–10M+ | 5–10 años | Muy Alta | ⬜ |
 | 18 | Private Equity | $5M–50M+ | 5–10 años | Muy Alta | ⬜ |
