@@ -69,7 +69,7 @@
 | 22 | YouTube Channel (Large) | $5–50K | 3–7 años | Alta | ✅ |
 | 23 | Paid Newsletter (Substack, Beehiiv) | $0–20K | 2–5 años | Media | ✅ |
 | 24 | Podcast Network | $20–100K | 3–7 años | Alta | ⬜ |
-| 25 | Digital Publishing Empire | $10–100K | 2–5 años | Media | ⬜ |
+|| 25 | Digital Publishing Empire | $10–100K | 2–5 años | Media | ✅ |
 
 ## ⚖️ Propiedad Intelectual
 *`licensing-ip/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 15 |
+| ✅ Completados | 16 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 32 |
+| ⬜ Pendientes | 31 |
 | ❌ Descartados | 0 |
-| Progreso | 32% |
+| Progreso | 34% |
 
 ---
 
