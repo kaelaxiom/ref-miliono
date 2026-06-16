@@ -54,7 +54,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 15 | Real Estate Development | $500K–5M | 3–7 años | Muy Alta | ✅ |
-| 16 | Multifamily Real Estate (Syndication) | $100K–1M | 3–7 años | Alta | ⬜ |
+|| 16 | Multifamily Real Estate (Syndication) | $100K–1M | 3–7 años | Alta | ✅ |
 | 17 | Venture Capital (GP) | $1M–10M+ | 5–10 años | Muy Alta | ⬜ |
 | 18 | Private Equity | $5M–50M+ | 5–10 años | Muy Alta | ⬜ |
 | 19 | Active Stock/Options Trading (Pro) | $100K–2M | 2–5 años | Muy Alta | ⬜ |
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 23 |
+| ✅ Completados | 24 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 24 |
+| ⬜ Pendientes | 23 |
 | ❌ Descartados | 0 |
-| Progreso | 49% |
+| Progreso | 51% |
 
 ---
 
