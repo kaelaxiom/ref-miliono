@@ -43,7 +43,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 11 | DTC Consumer Brands | $100K–1M | 2–5 años | Alta | ⬜ |
+| 11 | DTC Consumer Brands | $100K–1M | 2–5 años | Alta | ✅ |
 | 12 | Amazon FBA / Private Label | $10–100K | 1–3 años | Media | ✅ |
 | 13 | B2B Wholesale Distribution | $100K–1M | 3–7 años | Alta | ⬜ |
 | 14 | E-commerce Aggregator (Amazon roll-up) | $5–50M | 1–4 años | Muy Alta | ⬜ |
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 19 |
+| ✅ Completados | 20 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 28 |
+| ⬜ Pendientes | 27 |
 | ❌ Descartados | 0 |
-| Progreso | 40% |
+| Progreso | 43% |
 
 ---
 
