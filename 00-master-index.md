@@ -101,11 +101,11 @@
 ## 🤖 Tecnología Emergente
 *`emerging-tech/`*
 
-| # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
+|| # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 35 | AI Services / Implementation | $0–20K | 1–3 años | Media | ✅ |
-| 36 | Bitcoin Mining Operations | $500K–5M | 2–5 años | Alta | ⬜ |
-| 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ⬜ |
+|| 35 | AI Services / Implementation | $0–20K | 1–3 años | Media | ✅ |
+|| 36 | Bitcoin Mining Operations | $500K–5M | 2–5 años | Alta | ✅ |
+|| 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ⬜ |
 
 ## 🏥 Salud y Profesiones Reguladas
 *`healthcare-licenses/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 35 |
+| ✅ Completados | 36 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 12 |
+| ⬜ Pendientes | 11 |
 | ❌ Descartados | 0 |
-| Progreso | 74% |
+| Progreso | 77% |
 
 ---
 
