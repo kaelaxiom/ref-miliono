@@ -78,7 +78,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 26 | Patent Licensing | $50–500K | 3–10 años | Muy Alta | ✅ |
 | 27 | Music Royalties Catalog | $500K–5M | 1–3 años | Alta | ✅ |
-| 28 | Book Royalties (Bestseller) | $0–30K | 2–5 años | Media | ⬜ |
+| 28 | Book Royalties (Bestseller) | $0–30K | 2–5 años | Media | ✅ |
 
 ## 💎 Ventas de Alto Ticket
 *`high-ticket-sales/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 32 |
+| ✅ Completados | 33 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 15 |
+| ⬜ Pendientes | 14 |
 | ❌ Descartados | 0 |
-| Progreso | 68% |
+| Progreso | 70% |
 
 ---
 
