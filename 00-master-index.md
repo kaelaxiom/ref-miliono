@@ -96,7 +96,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 32 | Information Arbitrage | $0–5K | 1–3 años | Baja–Media | ✅ |
 | 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ✅ |
-| 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ⬜ |
+| 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ✅ |
 
 ## 🤖 Tecnología Emergente
 *`emerging-tech/`*
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 34 |
+| ✅ Completados | 35 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 13 |
+| ⬜ Pendientes | 12 |
 | ❌ Descartados | 0 |
-| Progreso | 72% |
+| Progreso | 74% |
 
 ---
 
-> **Última actualización:** 2026-06-17
+> **Última actualización:** 2026-06-17 (2a corrida)
 > **Próxima corrida programada:** cada 2 horas
