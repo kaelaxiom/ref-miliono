@@ -76,7 +76,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 26 | Patent Licensing | $50–500K | 3–10 años | Muy Alta | ⬜ |
+| 26 | Patent Licensing | $50–500K | 3–10 años | Muy Alta | ✅ |
 | 27 | Music Royalties Catalog | $500K–5M | 1–3 años | Alta | ⬜ |
 | 28 | Book Royalties (Bestseller) | $0–30K | 2–5 años | Media | ⬜ |
 
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 30 |
+| ✅ Completados | 31 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 17 |
+| ⬜ Pendientes | 16 |
 | ❌ Descartados | 0 |
-| Progreso | 64% |
+| Progreso | 66% |
 
 ---
 
