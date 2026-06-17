@@ -87,7 +87,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 29 | Enterprise B2B Sales | $0–50K | 2–4 años | Alta | ✅ |
 | 30 | High-Ticket Coaching/Consulting | $0–10K | 1–3 años | Media | ✅ |
-| 31 | Insurance Agency (Independent) | $10–50K | 3–7 años | Media | ⬜ |
+|| 31 | Insurance Agency (Independent) | $10–50K | 3–7 años | Media | ✅ |
 
 ## 🔄 Arbitraje
 *`arbitrage/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 33 |
+| ✅ Completados | 34 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 14 |
+| ⬜ Pendientes | 13 |
 | ❌ Descartados | 0 |
-| Progreso | 70% |
+| Progreso | 72% |
 
 ---
 
