@@ -113,7 +113,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 38 | Medical Practice (Specialist) | $200K–$1M | 5–10 años | Muy Alta | ✅ |
-| 39 | Dental Practice (Multi-location) | $500K–2M | 5–10 años | Muy Alta | ⬜ |
+| 39 | Dental Practice (Multi-location) | $500K–$2M | 5–10 años | Muy Alta | ✅ |
 | 40 | Independent Pharmacy | $300K–1M | 3–7 años | Alta | ⬜ |
 | 41 | Law Practice (Boutique) | $50–200K | 5–10 años | Alta | ⬜ |
 
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 38 |
+| ✅ Completados | 39 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 9 |
+| ⬜ Pendientes | 8 |
 | ❌ Descartados | 0 |
-| Progreso | 81% |
+| Progreso | 83% |
 
 ---
 
-> **Última actualización:** 2026-06-17 (3a corrida)
+> **Última actualización:** 2026-06-17 (4a corrida)
 > **Próxima corrida programada:** cada 2 horas
