@@ -123,7 +123,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 42 | Carbon Credit Trading | $10K–500K | 2–5 años | Alta | ✅ |
-| 43 | Renewable Energy Development | $1M–10M | 3–7 años | Muy Alta | ⬜ |
+| 43 | Renewable Energy Development | $1M–10M | 3–7 años | Muy Alta | ✅ |
 
 ## 🏗️ Cuello Azul Escalado
 *`blue-collar-entrepreneur/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 42 |
+| ✅ Completados | 43 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 5 |
+| ⬜ Pendientes | 4 |
 | ❌ Descartados | 0 |
-| Progreso | 89% |
+| Progreso | 91% |
 
 ---
 
