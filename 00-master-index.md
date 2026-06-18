@@ -105,7 +105,7 @@
 |---|--------|---------|-------------|------------|--------|
 || 35 | AI Services / Implementation | $0–20K | 1–3 años | Media | ✅ |
 || 36 | Bitcoin Mining Operations | $500K–5M | 2–5 años | Alta | ✅ |
-|| 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ⬜ |
+|| 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ✅ |
 
 ## 🏥 Salud y Profesiones Reguladas
 *`healthcare-licenses/`*
@@ -142,11 +142,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 36 |
+| ✅ Completados | 37 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 11 |
+| ⬜ Pendientes | 10 |
 | ❌ Descartados | 0 |
-| Progreso | 77% |
+| Progreso | 79% |
 
 ---
 
