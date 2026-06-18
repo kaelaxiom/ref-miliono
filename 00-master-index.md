@@ -115,7 +115,7 @@
 | 38 | Medical Practice (Specialist) | $200K–$1M | 5–10 años | Muy Alta | ✅ |
 | 39 | Dental Practice (Multi-location) | $500K–$2M | 5–10 años | Muy Alta | ✅ |
 | 40 | Independent Pharmacy | $300K–$1M | 3–7 años | Alta | ✅ |
-| 41 | Law Practice (Boutique) | $50–200K | 5–10 años | Alta | ⬜ |
+|| 41 | Law Practice (Boutique) | $50–200K | 5–10 años | Alta | ✅ |
 
 ## 🌱 Impacto y ESG
 *`esg-impact/`*
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 40 |
+| ✅ Completados | 41 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 7 |
+| ⬜ Pendientes | 6 |
 | ❌ Descartados | 0 |
-| Progreso | 85% |
+| Progreso | 87% |
 
 ---
 
-> **Última actualización:** 2026-06-18 (5a corrida)
+> **Última actualización:** 2026-06-18 (6a corrida)
 > **Próxima corrida programada:** cada 2 horas
