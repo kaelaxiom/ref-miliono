@@ -122,7 +122,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 42 | Carbon Credit Trading | $100K–2M | 2–5 años | Alta | ⬜ |
+| 42 | Carbon Credit Trading | $10K–500K | 2–5 años | Alta | ✅ |
 | 43 | Renewable Energy Development | $1M–10M | 3–7 años | Muy Alta | ⬜ |
 
 ## 🏗️ Cuello Azul Escalado
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 41 |
+| ✅ Completados | 42 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 6 |
+| ⬜ Pendientes | 5 |
 | ❌ Descartados | 0 |
-| Progreso | 87% |
+| Progreso | 89% |
 
 ---
 
-> **Última actualización:** 2026-06-18 (6a corrida)
+> **Última actualización:** 2026-06-18 (7a corrida)
 > **Próxima corrida programada:** cada 2 horas
