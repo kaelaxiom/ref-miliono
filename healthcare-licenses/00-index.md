@@ -22,7 +22,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 38 | Medical Practice (Specialist) | $200K–$1M | 5–10 años | Muy Alta | ✅ |
 | 39 | Dental Practice (Multi-location) | $500K–$2M | 5–10 años | Muy Alta | ✅ |
-| 40 | Independent Pharmacy | $300K–$1M | 3–7 años | Alta | ⬜ |
+|| 40 | Independent Pharmacy | $300K–$1M | 3–7 años | Alta | ✅ |
 | 41 | Law Practice (Boutique) | $50–200K | 5–10 años | Alta | ⬜ |
 
 ---
@@ -32,9 +32,9 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 4 |
-| ✅ Completados | 2 |
-| ⬜ Pendientes | 2 |
-| Progreso | 50% |
+| ✅ Completados | 3 |
+| ⬜ Pendientes | 1 |
+| Progreso | 75% |
 
 ---
 
