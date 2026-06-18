@@ -130,7 +130,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 44 | Construction / General Contracting | $50–500K | 3–7 años | Alta | ⬜ |
+| 44 | Construction / General Contracting | $5K–$100K | 3–7 años | Alta | ✅ |
 | 45 | Logistics / Trucking Fleet | $100K–1M | 3–7 años | Alta | ⬜ |
 | 46 | Waste Management / Dumpster Rental | $50–500K | 2–5 años | Media | ⬜ |
 | 47 | Franchise Ownership (Multi-unit) | $500K–5M | 3–7 años | Alta | ⬜ |
@@ -142,13 +142,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 47 |
-| ✅ Completados | 43 |
+| ✅ Completados | 44 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 4 |
+| ⬜ Pendientes | 3 |
 | ❌ Descartados | 0 |
-| Progreso | 91% |
+| Progreso | 94% |
 
 ---
 
-> **Última actualización:** 2026-06-18 (7a corrida)
+> **Última actualización:** 2026-06-18 (8a corrida)
 > **Próxima corrida programada:** cada 2 horas
