@@ -162,7 +162,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 57 | Dropshipping (Scaled) | $5–50K | 1–3 años | Media | ⬜ |
-| 58 | Print on Demand | $0–20K | 1–3 años | Baja | ⬜ |
+|| 58 | Print on Demand | $0–20K | 1–3 años | Baja | ✅ |
 | 59 | Wholesale / Bulk Import | $50–500K | 2–5 años | Alta | ⬜ |
 | 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ⬜ |
 
@@ -244,11 +244,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 50 |
+| ✅ Completados | 51 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 33 |
+| ⬜ Pendientes | 32 |
 | ❌ Descartados | 0 |
-| Progreso | 60% |
+| Progreso | 61% |
 
 ---
 
