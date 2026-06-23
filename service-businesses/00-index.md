@@ -13,8 +13,8 @@
 | 3 | B2B SaaS | $100K–2M | 3–7 años | Muy Alta | ✅ |
 | 4 | Executive Search / Headhunting | $10–50K | 2–4 años | Media | ✅ |
 | 5 | IT Managed Services (MSP) | $50–200K | 3–5 años | Alta | ✅ |
-|| 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ✅ |
-|| 48 | Staffing / Recruiting Agency | $10–50K | 2–4 años | Media | ⬜ |
+| 6 | Professional Services Automation | $10–100K | 2–4 años | Media | ✅ |
+| 48 | Staffing / Recruiting Agency | $10–50K | 2–4 años | Media | ✅ |
 | 49 | PPC / Media Buying Agency | $10–50K | 1–3 años | Media | ⬜ |
 | 50 | SEO Agency | $5–30K | 2–4 años | Media | ⬜ |
 | 51 | Event Production Agency | $20–100K | 3–5 años | Alta | ⬜ |
@@ -22,5 +22,5 @@
 
 ---
 
-> **Modelos completados:** 6 | **Pendientes:** 5
-> **Última actualización:** 2026-06-15
+> **Modelos completados:** 7 | **Pendientes:** 4
+> **Última actualización:** 2026-06-23

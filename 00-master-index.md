@@ -140,7 +140,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 48 | Staffing / Recruiting Agency | $10–50K | 2–4 años | Media | ⬜ |
+| 48 | Staffing / Recruiting Agency | $10–50K | 2–4 años | Media | ✅ |
 | 49 | PPC / Media Buying Agency | $10–50K | 1–3 años | Media | ⬜ |
 | 50 | SEO Agency | $5–30K | 2–4 años | Media | ⬜ |
 | 51 | Event Production Agency | $20–100K | 3–5 años | Alta | ⬜ |
@@ -244,11 +244,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 47 |
+| ✅ Completados | 48 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 36 |
+| ⬜ Pendientes | 35 |
 | ❌ Descartados | 0 |
-| Progreso | 57% |
+| Progreso | 58% |
 
 ---
 
