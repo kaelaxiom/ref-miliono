@@ -190,7 +190,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 68 | Domain / Digital Asset Flipping | $0–50K | 1–3 años | Baja–Media | ⬜ |
+|| 68 | Domain / Digital Asset Flipping | $0–50K | 1–3 años | Baja–Media | ✅ |
 
 ## ⚖️ Propiedad Intelectual (expandido)
 *`licensing-ip/`*
@@ -244,11 +244,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 53 |
+| ✅ Completados | 54 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 30 |
+| ⬜ Pendientes | 29 |
 | ❌ Descartados | 0 |
-| Progreso | 64% |
+| Progreso | 65% |
 
 ---
 

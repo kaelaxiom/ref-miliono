@@ -11,7 +11,7 @@
 | 32 | Information Arbitrage | $0–5K | 1–3 años | Baja–Media | ✅ |
 | 33 | Geographic Arbitrage (Remote Teams) | $10–50K | 1–3 años | Media | ✅ |
 | 34 | Retail / Online Arbitrage (Scaled) | $20–100K | 1–3 años | Media | ✅ |
-| 68 | Domain / Digital Asset Flipping | $0–50K | 1–3 años | Baja–Media | ⬜ |
+|| 68 | Domain / Digital Asset Flipping | $0–50K | 1–3 años | Baja–Media | ✅ |
 
 ## Quick Comparison
 
@@ -24,5 +24,5 @@
 
 ---
 
-> **Modelos completados:** 3 | **Pendientes:** 1
-> **Última actualización:** 2026-06-17
+> **Modelos completados:** 4 | **Pendientes:** 0
+> **Última actualización:** 2026-06-23
