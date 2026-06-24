@@ -164,7 +164,7 @@
 | 57 | Dropshipping (Scaled) | $5–50K | 1–3 años | Media | ⬜ |
 || 58 | Print on Demand | $0–20K | 1–3 años | Baja | ✅ |
 | 59 | Wholesale / Bulk Import | $50–500K | 2–5 años | Alta | ⬜ |
-| 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ⬜ |
+| 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ✅ |
 
 ## 🎬 Medios y Contenido (expandido)
 *`media-content/`*
@@ -244,11 +244,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 51 |
+| ✅ Completados | 52 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 32 |
+| ⬜ Pendientes | 31 |
 | ❌ Descartados | 0 |
-| Progreso | 61% |
+| Progreso | 63% |
 
 ---
 

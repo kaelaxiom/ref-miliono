@@ -15,9 +15,9 @@
 | 57 | Dropshipping (Scaled) | $5–50K | 1–3 años | Media | ⬜ |
 || 58 | Print on Demand | $0–20K | 1–3 años | Baja | ✅ |
 | 59 | Wholesale / Bulk Import | $50–500K | 2–5 años | Alta | ⬜ |
-| 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ⬜ |
+|| 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ✅ |
 
 ---
 
-> **Modelos completados:** 5 | **Pendientes:** 3
+> **Modelos completados:** 6 | **Pendientes:** 2
 > **Última actualización:** 2026-06-16
