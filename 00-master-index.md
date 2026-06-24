@@ -209,7 +209,7 @@
 | 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ⬜ |
 | 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ⬜ |
 || 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
-| 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ⬜ |
+| 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ✅ |
 
 ## 📈 Inversiones (expandido)
 *`investing/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 56 |
+| ✅ Completados | 57 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 27 |
+| ⬜ Pendientes | 26 |
 | ❌ Descartados | 0 |
-| Progreso | 67% |
+| Progreso | 68% |
 
 ---
 
-> **Última actualización:** 2026-06-24 (#74 Pressure Washing documentado)
+> **Última actualización:** 2026-06-24 (#75 Junk Removal / Dumpster Service documentado)
 > **Próxima corrida programada:** cada 2 horas
