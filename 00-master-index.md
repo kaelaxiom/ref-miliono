@@ -143,7 +143,7 @@
 | 48 | Staffing / Recruiting Agency | $10–50K | 2–4 años | Media | ✅ |
 | 49 | PPC / Media Buying Agency | $10–50K | 1–3 años | Media | ✅ |
 | 50 | SEO Agency | $5–30K | 2–4 años | Media | ✅ |
-| 51 | Event Production Agency | $20–100K | 3–5 años | Alta | ⬜ |
+| 51 | Event Production Agency | $20–100K | 3–5 años | Alta | ✅ |
 | 52 | Grant Writing Consulting | $0–10K | 2–4 años | Media | ⬜ |
 
 ## 💻 Productos Digitales (expandido)
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 59 |
+| ✅ Completados | 60 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 24 |
+| ⬜ Pendientes | 23 |
 | ❌ Descartados | 0 |
-| Progreso | 71% |
+| Progreso | 72% |
 
 ---
 
-> **Última actualización:** 2026-06-24 (#81 Pet Care / Dog Walking Empire documentado)
+> **Última actualización:** 2026-06-24 (#51 Event Production Agency documentado)
 > **Próxima corrida programada:** cada 2 horas
