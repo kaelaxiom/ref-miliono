@@ -154,7 +154,7 @@
 | 53 | Mobile Apps (Freemium/Gacha) | $50–500K | 3–5 años | Alta | ⬜ |
 | 54 | Game Development (Indie Studio) | $10–200K | 3–7 años | Muy Alta | ⬜ |
 | 55 | API / Data Feed Subscription | $10–100K | 2–4 años | Media | ⬜ |
-| 56 | Micro-SaaS (Niche Tools) | $0–50K | 1–3 años | Media | ⬜ |
+| 56 | Micro-SaaS (Niche Tools) | $0–50K | 1–3 años | Media | ✅ |
 
 ## 🛒 E-commerce (expandido)
 *`ecommerce/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 61 |
+| ✅ Completados | 62 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 22 |
+| ⬜ Pendientes | 21 |
 | ❌ Descartados | 0 |
-| Progreso | 73% |
+| Progreso | 75% |
 
 ---
 
-> **Última actualización:** 2026-06-24 (#52 Grant Writing Consulting documentado)
+> **Última actualización:** 2026-06-24 (#56 Micro-SaaS (Niche Tools) documentado)
 > **Próxima corrida programada:** cada 2 horas
