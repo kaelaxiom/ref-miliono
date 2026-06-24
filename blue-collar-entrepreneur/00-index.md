@@ -27,7 +27,7 @@
 | 71 | Vending Machine Route | $20–100K | 2–5 años | Media | ⬜ |
 | 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ⬜ |
 | 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ⬜ |
-| 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ⬜ |
+| 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
 | 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ⬜ |
 
 ---
@@ -36,9 +36,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| ✅ Completados | 4 |
+| ✅ Completados | 5 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 5 |
+| ⬜ Pendientes | 4 |
 | ❌ Descartados | 0 |
 
 ---
