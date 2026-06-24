@@ -198,7 +198,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 69 | Merchandising / Character Licensing | $10–100K | 2–5 años | Media | ⬜ |
-| 70 | Franchise Brokering | $5–50K | 1–3 años | Media | ⬜ |
+|| 70 | Franchise Brokering | $5–50K | 1–3 años | Media | ✅ |
 
 ## 🏗️ Cuello Azul Escalado (expandido)
 *`blue-collar-entrepreneur/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 54 |
+| ✅ Completados | 55 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 29 |
+| ⬜ Pendientes | 28 |
 | ❌ Descartados | 0 |
-| Progreso | 65% |
+| Progreso | 66% |
 
 ---
 
-> **Última actualización:** 2026-06-23 (expansión a 83 modelos)
+> **Última actualización:** 2026-06-24 (#70 Franchise Brokering completado)
 > **Próxima corrida programada:** cada 2 horas
