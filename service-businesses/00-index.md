@@ -18,9 +18,9 @@
 || 49 | PPC / Media Buying Agency | $10–50K | 1–3 años | Media | ✅ |
 || 50 | SEO Agency | $5–30K | 2–4 años | Media | ✅ |
 || 51 | Event Production Agency | $20–100K | 3–5 años | Alta | ✅ ||
-|| 52 | Grant Writing Consulting | $0–10K | 2–4 años | Media | ⬜ |
+||| 52 | Grant Writing Consulting | $0–10K | 2–4 años | Media | ✅ |
 
 ---
 
-|> **Modelos completados:** 10 | **Pendientes:** 1
+|> **Modelos completados:** 11 | **Pendientes:** 0
 |> **Última actualización:** 2026-06-24
