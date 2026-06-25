@@ -163,7 +163,7 @@
 |---|--------|---------|-------------|------------|--------|
 | 57 | Dropshipping (Scaled) | $5–50K | 1–3 años | Media | ✅ |
 || 58 | Print on Demand | $0–20K | 1–3 años | Baja | ✅ |
-| 59 | Wholesale / Bulk Import | $50–500K | 2–5 años | Alta | ⬜ |
+|| 59 | Wholesale / Bulk Import | $50–500K | 2–5 años | Alta | ✅ |
 | 60 | Etsy / Handmade Empire | $5–50K | 2–4 años | Media | ✅ |
 
 ## 🎬 Medios y Contenido (expandido)
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 69 |
+| ✅ Completados | 70 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 14 |
+| ⬜ Pendientes | 13 |
 | ❌ Descartados | 0 |
-|| Progreso | 83% |
+| | Progreso | 84% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#54 Game Development y #55 API / Data Feed Subscription documentados)
+> **Última actualización:** 2026-06-25 (#59 Wholesale / Bulk Import documentado)
 > **Próxima corrida programada:** cada 2 horas
