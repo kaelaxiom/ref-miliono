@@ -171,7 +171,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 61 | Creator Monetization (Premium Platforms) | $0–20K | 1–3 años | Media | ⬜ |
+|| 61 | Creator Monetization (Premium Platforms) | $0–20K | 1–3 años | Media | ✅ |
 | 62 | Affiliate Content Sites (Scaled) | $5–100K | 2–5 años | Media | ⬜ |
 | 63 | Influencer Agency | $0–20K | 1–3 años | Media | ⬜ |
 | 64 | Personal Brand / Thought Leader | $0–10K | 2–5 años | Media | ✅ |
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 64 |
+| ✅ Completados | 65 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 19 |
+| ⬜ Pendientes | 18 |
 | ❌ Descartados | 0 |
-| Progreso | 77% |
+| Progreso | 78% |
 
 ---
 
-> **Última actualización:** 2026-06-24 (#57 Dropshipping (Scaled) documentado)
+> **Última actualización:** 2026-06-24 (#61 Creator Monetization (Premium Platforms) documentado)
 > **Próxima corrida programada:** cada 2 horas
