@@ -151,7 +151,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 53 | Mobile Apps (Freemium/Gacha) | $50–500K | 3–5 años | Alta | ⬜ |
+| 53 | Mobile Apps (Freemium/Gacha) | $50–500K | 3–5 años | Alta | ✅ |
 | 54 | Game Development (Indie Studio) | $10–200K | 3–7 años | Muy Alta | ⬜ |
 | 55 | API / Data Feed Subscription | $10–100K | 2–4 años | Media | ⬜ |
 | 56 | Micro-SaaS (Niche Tools) | $0–50K | 1–3 años | Media | ✅ |
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 62 |
+| ✅ Completados | 63 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 21 |
+| ⬜ Pendientes | 20 |
 | ❌ Descartados | 0 |
-| Progreso | 75% |
+| Progreso | 76% |
 
 ---
 
-> **Última actualización:** 2026-06-24 (#56 Micro-SaaS (Niche Tools) documentado)
+> **Última actualización:** 2026-06-24 (#53 Mobile Apps (Freemium/Gacha) documentado)
 > **Próxima corrida programada:** cada 2 horas
