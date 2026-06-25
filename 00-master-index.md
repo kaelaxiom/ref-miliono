@@ -152,8 +152,8 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 53 | Mobile Apps (Freemium/Gacha) | $50–500K | 3–5 años | Alta | ✅ |
-| 54 | Game Development (Indie Studio) | $10–200K | 3–7 años | Muy Alta | ⬜ |
-| 55 | API / Data Feed Subscription | $10–100K | 2–4 años | Media | ⬜ |
+| 54 | Game Development (Indie Studio) | $10–200K | 3–7 años | Muy Alta | ✅ |
+| 55 | API / Data Feed Subscription | $10–100K | 2–4 años | Media | ✅ |
 | 56 | Micro-SaaS (Niche Tools) | $0–50K | 1–3 años | Media | ✅ |
 
 ## 🛒 E-commerce (expandido)
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 67 |
+| ✅ Completados | 69 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 16 |
+| ⬜ Pendientes | 14 |
 | ❌ Descartados | 0 |
-|| Progreso | 81% |
+|| Progreso | 83% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#66 Data Brokerage / Lead Generation documentado)
+> **Última actualización:** 2026-06-25 (#54 Game Development y #55 API / Data Feed Subscription documentados)
 > **Próxima corrida programada:** cada 2 horas
