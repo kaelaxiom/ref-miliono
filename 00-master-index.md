@@ -181,9 +181,9 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 65 | AI Model / API Marketplace | $50–500K | 2–4 años | Alta | ⬜ |
-| 66 | Data Brokerage / Lead Generation | $10–100K | 2–4 años | Media | ⬜ |
-| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ⬜ |
+|| 65 | AI Model / API Marketplace | $50–500K | 2–4 años | Alta | ⬜ |
+|| 66 | Data Brokerage / Lead Generation | $10–100K | 2–4 años | Media | ✅ |
+|| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ⬜ |
 
 ## 🔄 Arbitraje (expandido)
 *`arbitrage/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 66 |
+| ✅ Completados | 67 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 17 |
+| ⬜ Pendientes | 16 |
 | ❌ Descartados | 0 |
-|| Progreso | 80% |
+|| Progreso | 81% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#62 Affiliate Content Sites documentado)
+> **Última actualización:** 2026-06-25 (#66 Data Brokerage / Lead Generation documentado)
 > **Próxima corrida programada:** cada 2 horas
