@@ -231,7 +231,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 79 | Pool Service Route | $10–50K | 2–5 años | Media | ⬜ |
+| 79 | Pool Service Route | $10–50K | 2–5 años | Media | ✅ |
 | 80 | Residential Cleaning Empire | $5–30K | 2–5 años | Baja | ✅ |
 | 81 | Pet Care / Dog Walking Empire | $0–20K | 2–4 años | Baja | ✅ |
 | 82 | Landscaping / Lawn Care (Scaled) | $10–100K | 2–5 años | Media | ⬜ |
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 81 |
+| ✅ Completados | 82 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 2 |
+| ⬜ Pendientes | 1 |
 | ❌ Descartados | 0 |
-| Progreso | 98% |
+| Progreso | 99% |
 
 ---
 
-> **Última actualización:** 2026-06-26 (#78 Solar / Renewable Energy Sales documentado)
+> **Última actualización:** 2026-06-26 (#79 Pool Service Route documentado)
 > **Próxima corrida programada:** cada 2 horas
