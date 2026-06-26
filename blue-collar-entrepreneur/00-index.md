@@ -36,11 +36,11 @@
 
 | Métrica | Valor |
 |---------|-------|
-| ✅ Completados | 8 |
+| ✅ Completados | 9 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 1 |
+| ⬜ Pendientes | 0 |
 | ❌ Descartados | 0 |
 
 ---
 
-> **Última actualización:** 2026-06-26 (#73 Car Wash (Express/Tunnel) documentado)
+> **Última actualización:** 2026-06-26 (corrección de estadísticas — 9/9 modelos completados)
