@@ -183,7 +183,7 @@
 |---|--------|---------|-------------|------------|--------|
 || 65 | AI Model / API Marketplace | $50–500K | 2–4 años | Alta | ✅ |
 || 66 | Data Brokerage / Lead Generation | $10–100K | 2–4 años | Media | ✅ |
-|| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ⬜ |
+||| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ✅ |
 
 ## 🔄 Arbitraje (expandido)
 *`arbitrage/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 74 |
+| ✅ Completados | 75 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 9 |
+| ⬜ Pendientes | 8 |
 | ❌ Descartados | 0 |
-| | Progreso | 89% |
+| | Progreso | 90% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#65 AI Model / API Marketplace documentado)
+> **Última actualización:** 2026-06-25 (#67 Web3 / Blockchain Gaming documentado)
 > **Próxima corrida programada:** cada 2 horas

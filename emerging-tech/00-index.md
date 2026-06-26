@@ -13,9 +13,9 @@
 | 37 | Blockchain Development Studio | $20–100K | 2–4 años | Alta | ✅ |
 | 65 | AI Model / API Marketplace | $50–500K | 2–4 años | Alta | ✅ |
 | 66 | Data Brokerage / Lead Generation | $10–100K | 2–4 años | Media | ✅ |
-| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ⬜ |
+|| 67 | Web3 / Blockchain Gaming | $100K–2M | 3–7 años | Muy Alta | ✅ |
 
 ---
 
-> **Modelos completados:** 5 | **Pendientes:** 1
+> **Modelos completados:** 6 | **Pendientes:** 0
 > **Última actualización:** 2026-06-25
