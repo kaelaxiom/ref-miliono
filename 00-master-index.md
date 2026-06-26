@@ -197,7 +197,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 69 | Merchandising / Character Licensing | $10–100K | 2–5 años | Media | ⬜ |
+|| 69 | Merchandising / Character Licensing | $10–100K | 2–5 años | Media | ✅ |
 || 70 | Franchise Brokering | $5–50K | 1–3 años | Media | ✅ |
 
 ## 🏗️ Cuello Azul Escalado (expandido)
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 75 |
-| 🔍 En investigación | 0 |
-| ⬜ Pendientes | 8 |
-| ❌ Descartados | 0 |
-| | Progreso | 90% |
+|| ✅ Completados | 76 |
+|| 🔍 En investigación | 0 |
+|| ⬜ Pendientes | 7 |
+|| ❌ Descartados | 0 |
+|| | Progreso | 92% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#67 Web3 / Blockchain Gaming documentado)
+> **Última actualización:** 2026-06-25 (#69 Merchandising / Character Licensing documentado)
 > **Próxima corrida programada:** cada 2 horas
