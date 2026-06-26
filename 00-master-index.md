@@ -224,7 +224,7 @@
 
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
-| 78 | Solar / Renewable Energy Sales | $10–50K | 2–4 años | Media | ⬜ |
+| 78 | Solar / Renewable Energy Sales | $10–50K | 2–4 años | Media | ✅ |
 
 ## 🏠 Servicios Locales 🆕
 *`local-services/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 80 |
+| ✅ Completados | 81 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 3 |
+| ⬜ Pendientes | 2 |
 | ❌ Descartados | 0 |
-| Progreso | 96% |
+| Progreso | 98% |
 
 ---
 
-> **Última actualización:** 2026-06-26 (#77 Tax Lien / Tax Deed Investing documentado)
+> **Última actualización:** 2026-06-26 (#78 Solar / Renewable Energy Sales documentado)
 > **Próxima corrida programada:** cada 2 horas
