@@ -207,8 +207,8 @@
 |---|--------|---------|-------------|------------|--------|
 | 71 | Vending Machine Route | $20–100K | 2–5 años | Media | ✅ |
 | 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ✅ |
-| 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ⬜ |
-|| 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
+|| 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ✅ |
+||| 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
 | 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ✅ |
 
 ## 📈 Inversiones (expandido)
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 77 |
-| 🔍 En investigación | 0 |
-| ⬜ Pendientes | 6 |
-| ❌ Descartados | 0 |
-| | Progreso | 93% |
+|| ✅ Completados | 78 |
+|| 🔍 En investigación | 0 |
+|| ⬜ Pendientes | 5 |
+|| ❌ Descartados | 0 |
+|| | Progreso | 94% |
 
 ---
 
-> **Última actualización:** 2026-06-26 (#72 Laundromat (Scaled) documentado)
+> **Última actualización:** 2026-06-26 (#73 Car Wash (Express/Tunnel) documentado)
 > **Próxima corrida programada:** cada 2 horas
