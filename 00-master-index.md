@@ -244,11 +244,11 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-|| ✅ Completados | 76 |
-|| 🔍 En investigación | 0 |
-|| ⬜ Pendientes | 7 |
-|| ❌ Descartados | 0 |
-|| | Progreso | 92% |
+| ✅ Completados | 76 |
+| 🔍 En investigación | 0 |
+| ⬜ Pendientes | 7 |
+| ❌ Descartados | 0 |
+| | Progreso | 92% |
 
 ---
 
