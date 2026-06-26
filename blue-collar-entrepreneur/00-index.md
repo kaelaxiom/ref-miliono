@@ -25,7 +25,7 @@
 | 46 | Waste Management / Dumpster Rental | $50–500K | 2–5 años | Media | ✅ |
 | 47 | Franchise Ownership (Multi-unit) | $500K–5M | 3–7 años | Alta | ✅ |
 | 71 | Vending Machine Route | $20–100K | 2–5 años | Media | ✅ |
-| 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ⬜ |
+| 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ✅ |
 | 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ⬜ |
 | 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
 | 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ✅ |
@@ -36,11 +36,11 @@
 
 | Métrica | Valor |
 |---------|-------|
-| ✅ Completados | 7 |
+| ✅ Completados | 8 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 2 |
+| ⬜ Pendientes | 1 |
 | ❌ Descartados | 0 |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#71 Vending Machine Route documentado)
+> **Última actualización:** 2026-06-26 (#72 Laundromat (Scaled) documentado)

@@ -206,7 +206,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 71 | Vending Machine Route | $20–100K | 2–5 años | Media | ✅ |
-| 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ⬜ |
+| 72 | Laundromat (Scaled) | $100–500K | 3–7 años | Alta | ✅ |
 | 73 | Car Wash (Express/Tunnel) | $500K–3M | 3–7 años | Alta | ⬜ |
 || 74 | Pressure Washing / Exterior Cleaning | $5–50K | 2–4 años | Media | ✅ |
 | 75 | Junk Removal / Dumpster Service | $10–100K | 2–5 años | Media | ✅ |
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 76 |
+| ✅ Completados | 77 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 7 |
+| ⬜ Pendientes | 6 |
 | ❌ Descartados | 0 |
-| | Progreso | 92% |
+| | Progreso | 93% |
 
 ---
 
-> **Última actualización:** 2026-06-25 (#69 Merchandising / Character Licensing documentado)
+> **Última actualización:** 2026-06-26 (#72 Laundromat (Scaled) documentado)
 > **Próxima corrida programada:** cada 2 horas
