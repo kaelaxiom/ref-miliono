@@ -217,7 +217,7 @@
 | # | Modelo | Capital | Tiempo a $1M | Dificultad | Estado |
 |---|--------|---------|-------------|------------|--------|
 | 76 | RIA / Wealth Management Practice | $50–200K | 3–7 años | Alta | ✅ |
-| 77 | Tax Lien / Tax Deed Investing | $50–500K | 3–5 años | Alta | ⬜ |
+|| 77 | Tax Lien / Tax Deed Investing | $50–500K | 3–5 años | Alta | ✅ |
 
 ## 💎 Ventas de Alto Ticket (expandido)
 *`high-ticket-sales/`*
@@ -244,13 +244,13 @@
 | Métrica | Valor |
 |---------|-------|
 | Total modelos | 83 |
-| ✅ Completados | 79 |
+| ✅ Completados | 80 |
 | 🔍 En investigación | 0 |
-| ⬜ Pendientes | 4 |
+| ⬜ Pendientes | 3 |
 | ❌ Descartados | 0 |
-| Progreso | 95% |
+| Progreso | 96% |
 
 ---
 
-> **Última actualización:** 2026-06-26 (#76 RIA / Wealth Management Practice documentado)
+> **Última actualización:** 2026-06-26 (#77 Tax Lien / Tax Deed Investing documentado)
 > **Próxima corrida programada:** cada 2 horas

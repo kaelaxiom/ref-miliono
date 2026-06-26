@@ -16,9 +16,9 @@
 | 20 | Private Lending / Hard Money | $200K–5M | 2–5 años | Alta | ✅ |
 || 21 | HELOC / Real Estate Note Investing | $100K–1M | 2–5 años | Alta | ✅ |
 || 76 | RIA / Wealth Management Practice | $50–200K | 3–7 años | Alta | ✅ |
-| 77 | Tax Lien / Tax Deed Investing | $50–500K | 3–5 años | Alta | ⬜ |
+|| 77 | Tax Lien / Tax Deed Investing | $50–500K | 3–5 años | Alta | ✅ |
 
 ---
 
-> **Modelos completados:** 8 | **Pendientes:** 1
-> **Última actualización:** 2026-06-26 (#76 RIA / Wealth Management Practice documentado)
+> **Modelos completados:** 9 | **Pendientes:** 0
+> **Última actualización:** 2026-06-26 (#77 Tax Lien / Tax Deed Investing documentado)
